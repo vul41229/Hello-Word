@@ -1,4 +1,4 @@
-package day01;// 包名 叫day01 ---------樓和單元 ,作用:區分不同的房子
+package day01;
 
 public class HelloJava {
     public static void main(String[] args) {
@@ -7,4 +7,3 @@ public class HelloJava {
     }
 
 }
-
