@@ -1,9 +1,8 @@
 package day01;
 
-public class HelloJava {
+public class HelloWord {
     public static void main(String[] args) {
-        System.out.println("Hello Java");
-        System.out.print(555);
+        System.out.println("Hello Word");
+        System.out.print(666);
     }
-
 }
